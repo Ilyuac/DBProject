@@ -1,0 +1,3 @@
+PathDB=E:\Sql\SQL\sql\SQL.mdf
+PathAct=E:\Sql\SQL\sql\Library\template\TempAct.docx
+SaveAct=E:\Sql\SQL\sql\Library\Act\
